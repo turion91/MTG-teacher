@@ -1,0 +1,5 @@
+{
+  "name": "MTG Rules Sage: Multi-Agent Workflow",
+  "description": "An intelligent multi-agent system designed to teach Magic: The Gathering rules, featuring an orchestrator that routes queries to specialized domain experts.",
+  "requestFramePermissions": []
+}
